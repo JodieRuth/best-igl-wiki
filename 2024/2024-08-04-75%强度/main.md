@@ -14,7 +14,7 @@
 
 #### 背景
 
-挂名LGD的mdyw正在打2024EWC决赛
+<font color="blue">挂名LGD的mdyw正在打2024EWC决赛</font>
 
 df 2024EWC亚太南预选赛，<font color="red">成功20进3淹死</font>
 
